@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">ShakeWhere</string>
+    <string name="logo">ShakeWhere Logo</string>
+
+    <string name="signup">Sign Up</string>
+    <string name="login">Log In</string>
+    <string name="book">Book</string>
+
+    <string name="Account">Already have an account? Log In!</string>
+    <string name="NoAccount">Don\'t have an account? Sign Up!</string>
+
+    <string name="firstname">Firstname</string>
+    <string name="lastname">Lastname</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+
+    <string name="search">Search</string>
+
+    <string name="performance">Performance</string>
+    <string name="PlaywriteVenue">By Playwright\nBuilding \nStreet \nCity \nPostcode</string>
+    <string name="DateTimeAccess">Date @ Time\nMust Climb 20 Steps: 0/1\nWheelchair Access: 0/1\nFlashing Lights: 0/1\nConsent Form: 0/1</string>
+
+    <string name="seat">Choose your seat and number of tickets.</string>
+    <string name="delete">Delete</string>
+    <string name="deleteTickets">Delete Ticket(s)</string>
+
+    <string name="seatDetails">Seat Type: Type Seat ID: ID</string>
+    <string name="download">Download</string>
+
+    <string-array name="seattypes">
+        <item>Choose your seat</item>
+        <item>Seated</item>
+        <item>Standing</item>
+        <item>Grass</item>
+        <item>Inner Circle</item>
+        <item>Outer Circle</item>
+        <item>On Stage</item>
+        <item>River Bank</item>
+        <item>Boat A</item>
+        <item>Boat B</item>
+
+    </string-array>
+</resources>
